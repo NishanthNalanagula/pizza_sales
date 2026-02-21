@@ -14,19 +14,19 @@ decisions.
 
 ## Dataset Description
 
-### Dataset Source
+### Dataset Source:
 Pizza Sales Dataset (Kaggle)
 
-### Dataset Type
+### Dataset Type:
 CSV Files
 
-### Tables Used
+### Tables Used:
 - **[Orders](https://github.com/NishanthNalanagula/Pizza_Sales/blob/main/orders.csv)**
 - **[Order Details](https://github.com/NishanthNalanagula/Pizza_Sales/blob/main/order_details.csv)**
 - **[Pizzas](https://github.com/NishanthNalanagula/Pizza_Sales/blob/main/pizzas.csv)**
 - **[Pizza Types](https://github.com/NishanthNalanagula/Pizza_Sales/blob/main/pizza_types.csv)**
 
-### Dataset Details
+### Dataset Details:
 - Total records: 48,000+
 - Time period: One year of sales data
 - Data type: Transactional sales data
