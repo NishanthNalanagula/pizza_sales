@@ -243,7 +243,7 @@ WHERE
 
 Project Presentation includes detail explanation of project along with the outputs to the Business Queries.
 
-Find the Presentation of the Project here :
+Find the Presentation of the Project here : **[Presentation Link](https://github.com/NishanthNalanagula/Pizza_Sales_Analysis/blob/main/Pizza_Sales_Analysis_Presentation.pdf)**
 ### Lets connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishanthNalanagula)
