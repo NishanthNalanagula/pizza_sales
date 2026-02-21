@@ -241,7 +241,7 @@ WHERE
 
 ## Project Presentation
 
-Project Presentation includes detail explanation of project along with the outputs to the Business Queries.
+Project Presentation includes in detail explanation of the project along with the outputs to the Business Queries.
 
 Find the Presentation of the Project here : **[Presentation Link](https://github.com/NishanthNalanagula/Pizza_Sales_Analysis/blob/main/Pizza_Sales_Analysis_Presentation.pdf)**
 ### Lets connect
